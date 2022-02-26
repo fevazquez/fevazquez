@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="./test.svg">
-  <img src="./me.png" alt="Yours truly," width=200>
+  <h1>Howdy hey!</h1>
+  <img src="./me.png" alt="Yours truly," width=200/>
+  <hr/>
 </div>
 
 ## About me
