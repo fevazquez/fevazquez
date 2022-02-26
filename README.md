@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Howdy hey!</h1>
-  <img src="./me.png" alt="Yours truly," width=200/>
+  <img src="./hero.png" alt="Yours truly,"/>
   <hr/>
 </div>
 
