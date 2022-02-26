@@ -1,6 +1,5 @@
-<div style="display: flex;justify-content: center;align-items:center;background: rgb(2,0,36);
-background: linear-gradient(168deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(3,218,93,1) 100%);border-radius: 5px;">
-  <h1>Howdy hey!</h2>
+<div align="center">
+  <img src="./test.svg">
   <img src="./me.png" alt="Yours truly," width=200>
 </div>
 
