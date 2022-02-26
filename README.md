@@ -1,16 +1,10 @@
-<style>
-.main { 
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  
-}
-</style>
-
-<div class="main">
+<div style="display: flex;justify-content: center;align-items:center;background: rgb(2,0,36);
+background: linear-gradient(168deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(3,218,93,1) 100%);border-radius: 5px;">
   <h1>Howdy hey!</h2>
   <img src="./me.png" alt="Yours truly," width=200>
 </div>
+
+## About me
 
 I am Fernando Vazquez, a frontend and DevOps engineer at your service! My main focus currently is on DevOps operations to deliver high quality products for <a href="https://www.nisum.com">Nisum</a> clients.
 
