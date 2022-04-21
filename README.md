@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./hero.png" alt="Yours truly," width=800 height=400/>
+  <img src="./hero.png" alt="Yours truly," width=800 height=500/>
 </div>
 
 ## About me
