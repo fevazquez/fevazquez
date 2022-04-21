@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./hero.png" alt="Yours truly," width=600 height=400/>
+  <img src="./hero.png" alt="Yours truly," width=800 height=400/>
 </div>
 
 ## About me
@@ -25,6 +25,7 @@ I am Fernando Vazquez, a frontend and DevOps engineer at your service! My main f
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins)
 ![Circleci](https://shields.io/badge/-Circleci-black?style=flat-square&logo=circleci)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-black?style=flat-square&logo=microsoft-azure)
@@ -33,6 +34,8 @@ I am Fernando Vazquez, a frontend and DevOps engineer at your service! My main f
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-black?style=flat-square&logo=bitbucket)
+
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=fevazquez&count_private=true&show_icons=true&include_all_commits=true) -->
 
 <!---
 fevazquez/fevazquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
