@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="./hero.png" alt="Yours truly," width=800 height=500/>
+  <img src="./hero.png" alt="Yours truly," width=700 height=400/>
 </div>
 
 ## About me
 
-I am Fernando Vazquez, a frontend and DevOps engineer at your service! My main focus currently is on DevOps operations to deliver high quality products for <a href="https://www.nisum.com">Nisum</a> clients.
+I am Fernando Vazquez, a software development engineer at your service! My main focus currently is to deliver the best customer experience over at <a href="https://www.nisum.com">AWS</a>.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Fernando%20Vazquez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-4-vazquez/)](https://www.linkedin.com/in/fernando-4-vazquez/)
 [![Instagram Badge](https://img.shields.io/badge/-itsfernanflow-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/itsfernanflow)
