@@ -6,7 +6,7 @@
 
 I am Fernando Vazquez, a software development engineer at your service! My main focus currently is to deliver the best customer experience over at <a href="https://aws.amazon.com/">AWS</a>
 
-[![Linkedin Badge](https://imga.shields.io/badge/-Fernando%20Vazquez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-4-vazquez/)](https://www.linkedin.com/in/fernando-4-vazquez/)
+[![Linkedin Badge](https://img.shields.io/badge/-Fernando%20Vazquez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-4-vazquez/)
 [![Instagram Badge](https://img.shields.io/badge/-itsfernanflow-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/itsfernanflow)
 [![Gmail Badge](https://img.shields.io/badge/-f4vazquez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:f4vazquez@gmail.com)
 
